@@ -1,6 +1,6 @@
 # Minor League Baseball Attendance Linear Regression Model
 
-A data analysis and visualization comparing NCAA football operating success to on-field success from 2017-2022
+A data regression and visualization predicting Minor League Baseball attendance given several baseball, stadium, and geographical variables
 
 ---
 
